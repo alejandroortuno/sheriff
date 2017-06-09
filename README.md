@@ -10,6 +10,7 @@ Tool output is in the form:
 Security Group ID:Direction of traffic:From port:To port
 
 Example
+
 sg-xxxxx:Ingress:22:22
 
 sg-yyyyy:Ingress:5500:5500
