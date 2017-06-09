@@ -11,5 +11,7 @@ Security Group ID:Direction of traffic:From port:To port
 
 Example
 sg-xxxxx:Ingress:22:22
+
 sg-yyyyy:Ingress:5500:5500
+
 sg-zzz:Egress:443:443
